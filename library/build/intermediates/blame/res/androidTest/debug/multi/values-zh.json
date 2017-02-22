@@ -1,0 +1,81 @@
+[
+    {
+        "outputFile": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 66,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 64,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 55,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 55,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 59,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "E:\\Studio\\LastMonth_Text_A\\library\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 59,
+                        "endOffset": 359
+                    }
+                }
+            }
+        ]
+    }
+]
